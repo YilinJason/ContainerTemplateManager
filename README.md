@@ -1,2 +1,2 @@
-# ContainerTemplateManager
-感知模板采集
+# CommonParametersHelper
+通用参数自动转换工具
